@@ -180,9 +180,9 @@
 - **Documentation**: [https://github.com/vasudev-glitch/gostore-flows-documentation](https://github.com/vasudev-glitch/gostore-flows-documentation)
 
 ### **📧 Contact Information:**
-- **Email**: vasudev.pikkili@gmail.com
-- **LinkedIn**:https://www.linkedin.com/in/vasudev-kumar-2bb5b8246/
-- **Portfolio**: as above.
+- **Email**: [YOUR_EMAIL]
+- **LinkedIn**: [YOUR_LINKEDIN]
+- **Portfolio**: [YOUR_PORTFOLIO]
 
 ---
 
@@ -198,6 +198,3 @@ This project is protected by patent law and copyright. All rights reserved. For 
 *Patent Status: Pending*  
 *Development Status: Complete*  
 *Business Ready: Yes*
-
-
-
