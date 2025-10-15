@@ -1,5 +1,5 @@
 # 🛒 GoStore - Professional Portfolio 2025
-## Revolutionary Cashierless Shopping System with 100% AI Accuracy
+## Revolutionary Cashierless Shopping System with 100% AI Accuracy {PATENTED}
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Professional-blue.svg)](https://github.com/vasudev-glitch/gostore-portfolio)
 [![Skills](https://img.shields.io/badge/Skills-Full%20Stack-green.svg)](https://github.com/vasudev-glitch/gostore-portfolio)
